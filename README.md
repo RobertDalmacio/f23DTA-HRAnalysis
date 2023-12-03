@@ -1,5 +1,14 @@
 # f23DTA-HRAnalysis
 
+## Project Structure
+
+- Project Setup: [f23DTA-HRAnalysis/data](https://github.com/RobertDalmacio/f23DTA-HRAnalysis/tree/main/data)
+- Module #4 Assignment - Data Transform Activity Scripts and Screenshots: [f23DTA-HRAnalysis/mungee](https://github.com/RobertDalmacio/f23DTA-HRAnalysis/tree/main/mungee)
+- Module #5 Assignment - Data Aggregation Activity Scripts and Screenshots: [f23DTA-HRAnalysis/src](https://github.com/RobertDalmacio/f23DTA-HRAnalysis/tree/main/src)
+- Module #6 Assignment - Data Visualization Activity Dashboard Excel File and Screenshot: [f23DTA-HRAnalysis/reports](https://github.com/RobertDalmacio/f23DTA-HRAnalysis/tree/main/reports)
+
+***
+
 ## Project Setup
 
 Here is the link to retrieve the IBM HR Analytics Employee Attrition & Performance dataset from Kaggle: \
